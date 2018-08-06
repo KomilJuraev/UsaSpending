@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="USSpending Automation Smoke Test" verbose="2">
+
+	<test name="USSpending Automation Smoke Test">
+		<packages>
+			<package name="SmokeTest"/>
+		</packages>
+	</test>
+
+</suite>
